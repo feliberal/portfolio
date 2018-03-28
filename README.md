@@ -2,7 +2,7 @@
 My CV
 
 ## Seventh Ltda
-** Fullstack developer August/2016 until now **
+**Fullstack developer August/2016 until now**
 
 Hired as a fullstack developer to reforce the Situator a software made for access control and virtual concierge
 
@@ -23,9 +23,9 @@ Node.js, Access Control Hardware, ZK Access, Intelbras, Linear HCS
 ---
 
 ## Glanz TI
-** .Net senior developer May/2015 to July/2016 **
-** .Net team leader October/2015 to July/2016 **
-** .Net and AngularJs freelancer October/2016 to November/2017 **
+**.Net senior developer May/2015 to July/2016**  
+**.Net team leader October/2015 to July/2016**  
+**.Net and AngularJs freelancer October/2016 to November/2017**  
 
 Hired as a .NET developer to reforce a team that developed a complete system for notary's officers.
 
@@ -44,7 +44,7 @@ Hired as a .NET developer to reforce a team that developed a complete system for
 ---
 
 ## Interativa Soluções
-** .Net developer January/2012 to April/2015 **
+**.Net developer January/2012 to April/2015**
 
 Hired as the main developer of a development team responsible for migrating a desktop application into an web application. Of a large system in the commercial and operational management area for water management companies.
 
@@ -65,8 +65,8 @@ Hired as the main developer of a development team responsible for migrating a de
 ---
 
 ## Directa Automação
-** Programmer Trainee - January/2006 to May/2010 **
-** .Net junior developer - June/2010 to December/2011 **
+**Programmer Trainee - January/2006 to May/2010**  
+**.Net junior developer - June/2010 to December/2011**
 
 Developer of the Delphi and .Net teams responsible to maintain and to develop the new features for product resource control application, statistical process control application and logistics application and key performance indicators application.
 
