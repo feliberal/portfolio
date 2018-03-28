@@ -1,10 +1,9 @@
-# curriculum vitae
-My CV
+# My CV
 
 ## Seventh Ltda
-**Fullstack developer August/2016 until now**
+**Full stack developer August/2016 until now**
 
-Hired as a fullstack developer to reforce the Situator a software made for access control and virtual concierge
+Hired as a full stack developer to reinforce the Situator a software made for access control and virtual concierge
 
 * Analyse, specify and document the technical requirements
 * Analyse, specify and develop components to integrate with other systems
@@ -27,7 +26,7 @@ Node.js, Access Control Hardware, ZK Access, Intelbras, Linear HCS
 **.Net team leader October/2015 to July/2016**  
 **.Net and AngularJs freelancer October/2016 to November/2017**  
 
-Hired as a .NET developer to reforce a team that developed a complete system for notary's officers.
+Hired as a .NET developer to reinforce a team that developed a complete system for notary's officers.
 
 * Analyse, specify and document the technical requirements
 * Analyse, specify and develop components to integrate with other systems
